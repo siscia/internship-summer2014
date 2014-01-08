@@ -24,7 +24,7 @@ For any question: sisciapub (at) gmail (dot) com
 
 # Small/medium company, startup.
 
-[Be the first !!!][form]
+### [Be the first !!!][form]
 
 
 # Huge Mega-Corp
@@ -32,10 +32,11 @@ For any question: sisciapub (at) gmail (dot) com
 - [Apple][apple]
 - [Google][google]
 - [Microsoft][microsoft]
-
+- [Yahoo][yahoo]
 
 [ask-hn]: https://news.ycombinator.com/item?id=6995020
 [form]: https://siscia.wufoo.com/forms/internship-summer-2014/
 [microsoft]: http://careers.microsoft.com/careers/en/us/internships.aspx
 [apple]: http://www.apple.com/jobs/us/students.html
 [google]: http://www.google.com/about/jobs/students/
+[yahoo]: http://us.careers.yahoo.com/students
