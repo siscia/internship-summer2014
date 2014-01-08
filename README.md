@@ -17,7 +17,7 @@ I will also check for pull request on this document.
 
 ## Note
 
-For anti-spam reason email address such `john@gmail.com` will appear as `john (at) gmail (dot) com` .
+For anti-spam reason email address such `john@gmail.com` will appear as `john [at] gmail [dot] com` .
 
 For any question: sisciapub (at) gmail (dot) com
 
