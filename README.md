@@ -28,7 +28,7 @@ sisciapub (at) gmail (dot) com
 
 **Name:** The Monkey Inferno
 
-**Email:** furqan@monkeyinferno.com
+**Email:** furqan (at) monkeyinferno (dot) com
 
 **Location:** San Francisco, CA
 
