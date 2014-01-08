@@ -26,7 +26,22 @@ sisciapub (at) gmail (dot) com
 
 # Small/medium company, startup.
 
-### [Be the first !!!][form]
+**Name:** The Monkey Inferno
+
+**Email:** furqan@monkeyinferno.com
+
+**Location:** San Francisco, CA
+
+**About:** At the Monkey Inferno, we dream up ideas, and then build them into companies. We are a team of 20 engineers, designers, and business people coming together to build amazing products. Michael and Xochi are leaders in the tech industry, having built multiple, multi-million dollar companies (try saying that twice) over the past decade.
+
+**Paid:** Yes
+
+**Approximative start**: Saturday, February 1, 2014
+
+**Tech Stack:** Java (Android), Objective-C (iOS), Python, MySQL, Redis
+
+
+### [Be listen too !!!][form]
 
 
 # Huge Mega-Corp
