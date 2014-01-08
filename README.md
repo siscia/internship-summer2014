@@ -1,5 +1,3 @@
-internship-summer2014
-=====================
 
 # Why
 
@@ -15,11 +13,15 @@ To be listen in this document just fill out [this form][form], I will add you at
 
 I will also check for pull request on this document.
 
-## Note
+### Note
 
 For anti-spam reason email address such `john@gmail.com` will appear as `john (at) gmail (dot) com` .
 
-For any question: sisciapub (at) gmail (dot) com
+If I get a lot of submision I will make something more structured, for now a markdown page is good enough.
+
+### Question
+
+sisciapub (at) gmail (dot) com
 
 
 # Small/medium company, startup.
