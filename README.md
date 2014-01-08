@@ -29,9 +29,9 @@ For any question: sisciapub (at) gmail (dot) com
 
 # Huge Mega-Corp
 
-[Apple][apple]
-[Google][google]
-[Microsoft][microsoft]
+- [Apple][apple]
+- [Google][google]
+- [Microsoft][microsoft]
 
 
 [ask-hn]: https://news.ycombinator.com/item?id=6995020
